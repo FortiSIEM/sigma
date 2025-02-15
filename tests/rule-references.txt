@@ -3494,3 +3494,15 @@ https://craigclouditpro.wordpress.com/2020/03/04/hunting-malicious-windows-defen
 https://github.com/nathan31337/Splunk-RCE-poc/
 http://www.solomonson.com/posts/2010-07-09-reading-eventviewer-command-line/
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
+https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
+https://github.com/deepinstinct/NoFilter
+https://github.com/xuanxuan0/DripLoader
+https://www.virustotal.com/gui/file/d3fa64f63563fe958b75238742d1e473800cb5f49f5cb79d38d4aa3c93709026/behavior
+https://github.com/redcanaryco/atomic-red-team/blob/4d6c4e8e23d465af7a2388620cfe3f8c76e16cf0/atomics/T1082/T1082.md
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
+https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
+https://www.virustotal.com/gui/file/d6f6bc10ae0e634ed4301d584f61418cee18e5d58ad9af72f8aa552dc4aaeca3/behavior
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
